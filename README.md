@@ -3,8 +3,6 @@ This repository is the final project of the GAD2006 Advanced Game Development co
 
 Note: When I submitted this project for the final assignment, the AI ​​enemies in the project were not working properly. I tried so hard to fix it at that time, but I couldn't find the reason. There were also several different bugs in the game. Also, I had a problem unzipping the project files that I just zip uped to upload the project to Git Hub. I understood and solved the problem, but I did not test whether it causes new bugs. I hope there are no other new bugs.
 
-Note: Since no more than 2 GB files are uploaded to Github at one time, I separated the project files into 3 different zips. So if you unzip 3 zip's under one folder named "COA" you can open Unreal project.
-
 Note: If you unzip and open the Unreal project, you need to open "Map_MainMenu.umap" to start the game from the main menu.
 
 The details of the given project are as follows:
