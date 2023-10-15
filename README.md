@@ -18,10 +18,16 @@ When the game starts, the player comes to his/her village using the character he
 
 If the player chooses the Warrior character, the character swings his sword on the base attack and spins and swings his sword on the strong attack. In addition, as a special attack, the character creates a shield wall and the damage taken from the enemies does not come directly to himself with this shield.
 
-If the player chooses the Fireball character, the character throws a fireball in the base attack and creates and throws a strong fireball in the strong attack. In addition, as a special attack, the character can hook one of the hook poles around him if he is not near the enemy and is looking towards one of the hook poles and can go to the hook pole with the hook power.
+If the player chooses the Fireball character, the character throws a fireball in the base attack and creates and throws a strong fireball in the strong attack. In addition, as a special attack, the character can hook one of the hook poles around him if he is not near the enemy and is looking towards one of the hook poles and can go to the hook pole with the hook power. 
 
 If the player chooses the Iceball character, the character throws an iceball in the base attack and creates and throws a strong iceball in the strong attack. In addition, as a special attack, the character can hook one of the hook poles around him if he is not near the enemy and is looking towards one of the hook poles and can go to the hook pole with the hook power.
 
 Also, all three characters can jump, run, and dash in the game.
 
 Note: I do not write the keys because there is a how-to-play part in the game.
+
+Game Video         
+https://youtu.be/BSZmXVLw-Ac
+
+Windows Build             
+https://drive.google.com/file/d/1KuFhneZE6M1uB4QduH8mAfcwBVGKaL61/view?usp=sharing
